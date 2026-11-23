@@ -10,9 +10,10 @@ esto fue creado por mi
 1.lista
 2.lista
 
--[] checklist
--[x] checklist
-- *1
+- [] checklist
+- [x] checklist
+
+- 1
 - a
 - b
 - c
