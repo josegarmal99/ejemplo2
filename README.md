@@ -7,8 +7,8 @@ esto fue creado por mi
 
 **negra**
 *cursiva*
-- 1.lista
-- 2.lista
+1.lista
+2.lista
 
 - [ ] checklist
 - [x] checklist
