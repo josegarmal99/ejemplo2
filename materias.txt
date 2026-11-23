@@ -1,3 +1,4 @@
 matematicas 
 programacion
-fisica
+física
+ingles
