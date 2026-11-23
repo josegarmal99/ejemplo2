@@ -10,7 +10,7 @@ esto fue creado por mi
 1.lista
 2.lista
 
-- [] checklist
+- [ ] checklist
 - [x] checklist
 
 - 1
